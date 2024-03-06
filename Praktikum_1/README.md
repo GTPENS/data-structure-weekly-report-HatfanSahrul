@@ -528,7 +528,8 @@ struct record{
 };
 
 int main(){
-    //2. Deklarasikan sebuah variabel struktur (misalkan namanya = sample) yang didefinisikan memiliki tipe struktur record. 
+    //2. Deklarasikan sebuah variabel struktur (misalkan namanya = sample)
+    //yang didefinisikan memiliki tipe struktur record. 
     record sample={1, "Hatfan", 14.57f};
 
     return 0;
