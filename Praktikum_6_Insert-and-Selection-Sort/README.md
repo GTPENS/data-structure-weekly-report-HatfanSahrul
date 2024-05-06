@@ -1,5 +1,5 @@
 
-## Nama    : Yoga Sandy
+## Nama    : Hatfan Sahrul Ramadhan
 ## NRP     : 5223600004
 ## Kelas   : 1 GT-A
 
